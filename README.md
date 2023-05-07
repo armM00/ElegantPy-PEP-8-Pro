@@ -1,5 +1,5 @@
 # ElegantPy: PEP-8 Pro
-![](pep-8.jpg)
+<img src="pep-8.jpg" alt="Image">
 
 
 This project serves as a demonstration of writing code that adheres to the guidelines outlined in PEP-8, the official style guide for Python code. It showcases the ideal coding practices and conventions recommended by the Python community.
@@ -38,10 +38,10 @@ Contributions to this project are not expected, as it primarily serves as an edu
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
+<img src="pep8.jpg" alt="Image">
+
 ## About the Author
 
 This project is created and maintained by Armen-Jean Andreasian.
 
 **Note:** The examples provided in this project are for demonstrative purposes and do not prioritize performance. They are intended to showcase syntactical adherence to the PEP-8 guidelines.
-
-![](pep8.jpg)
