@@ -1,5 +1,5 @@
 # ElegantPy: PEP-8 Pro
-![](path/to/your/image.png)
+![](pep-8.jpg)
 
 
 This project serves as a demonstration of writing code that adheres to the guidelines outlined in PEP-8, the official style guide for Python code. It showcases the ideal coding practices and conventions recommended by the Python community.
@@ -44,4 +44,4 @@ This project is created and maintained by Armen-Jean Andreasian.
 
 **Note:** The examples provided in this project are for demonstrative purposes and do not prioritize performance. They are intended to showcase syntactical adherence to the PEP-8 guidelines.
 
-![](path/to/your/image.png)
+![](pep8.jpg)
