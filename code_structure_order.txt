@@ -1,0 +1,13 @@
+Docstrings
+Import special libraries
+Import third-party libraries
+Import standard (built-in) libraries
+Constant variables
+Classes
+Class calls
+Defined functions
+Defined function calls
+Dependent assignments
+Independent assignments
+Expression assignments
+Additional blank line at the end
