@@ -1,5 +1,5 @@
 # ElegantPy: PEP-8 Pro
-<img src="pep-8.jpg" alt="Image">
+<img src="https://drive.google.com/u/1/uc?id=1Gle4NVsVKTFlXN4BYzcrhw5SfiiU7yeh" alt="Image">
 
 
 This project serves as a demonstration of writing code that adheres to the guidelines outlined in PEP-8, the official style guide for Python code. It showcases the ideal coding practices and conventions recommended by the Python community.
@@ -38,7 +38,7 @@ Contributions to this project are not expected, as it primarily serves as an edu
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-<img src="pep8.jpg" alt="Image">
+<img src="https://drive.google.com/u/1/uc?id=1Ey7I-JnDRpyAS1n6FAtFdEM3lPr9ZU7I" alt="Image">
 
 ## About the Author
 
